@@ -1,0 +1,2 @@
+# Isolamento-Socio-Geografico-SNCT-2018
+Projeto Integrador realizado pelos alunos do curso Técnico de Automação Industrial do IFSP campus São José dos Campos, juntamente com o professor Leandro Salmagi. O Projeto visava atender ao tema da Semana Nacional de Ciência e Tecnologia de 2018, que foi pautado na Ciência para Redução das Desigualdades. O Projeto estuda dados obtidos por pesquisas reunidas pela equipe sobre o Isolamento Sócio Geográfico.
